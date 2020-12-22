@@ -1,0 +1,2 @@
+# gotest.uz
+GO test
